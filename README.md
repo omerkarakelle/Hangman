@@ -1,3 +1,13 @@
-# my-first-tkinter-game
+# Hangman
 
-i am new in programming and github, and this is my first game with python tkinter so it can be terrible.
+my first project with python using tkinter library.
+how to open:
+___________________
+pip3 install PIL
+python3 hangman.py
+___________________
+or
+___________________
+pip install PIL
+python hangman.py
+___________________
