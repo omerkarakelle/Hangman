@@ -2,17 +2,10 @@
 
 my first project with python using tkinter library.
 
-how to open:
-___________________
-pip3 install PIL
-
-python3 hangman.py
-___________________
-
-or
-
-___________________
-pip install PIL
-
-python hangman.py
-___________________
+<div>---------How to play?----------</div>
+<div>pip3 install pillow</div>
+<div>python3 hangman.py</div>
+<div>--------------or-----------------</div>
+<div>pip install pillow</div>
+<div>python hangman.py</div>
+<div>---------------------------------</div>
